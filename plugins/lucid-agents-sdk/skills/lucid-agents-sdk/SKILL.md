@@ -10,6 +10,7 @@ description: |
   lucid-agents monorepo, creating new templates or CLI features, or questions about
   the Lucid Agents architecture or API.
 
+allowed-tools: [Read, Bash, WebFetch]
 see-also:
   - https://github.com/daydreamsai/lucid-agents/blob/master/AGENTS.md: Full AI coding guide for the lucid-agents monorepo
   - https://github.com/daydreamsai/lucid-agents/blob/master/CONTRIBUTING.md: Contribution guidelines

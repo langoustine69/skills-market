@@ -8,6 +8,7 @@ description: |
   Activate when: user wants to create Lucid agents with inline JS handlers
   (no generate API, no self-hosting). The agent will be hosted on the Lucid platform.
 
+allowed-tools: [Read, Write, Bash]
 see-also:
   - ./GUIDE.md: Guide for humans and agents (grok-the-flow)
 ---

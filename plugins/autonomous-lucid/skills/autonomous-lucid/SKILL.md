@@ -2,6 +2,10 @@
 name: autonomous-lucid
 description: Autonomous agent factory - research a domain and generate a monorepo of 10 production Lucid Agents
 allowed-tools: [Skill, Bash, Read, Write, Edit, AskUserQuestion, TodoWrite]
+see-also:
+  - ./ARCHITECTURE.md: Architecture design and data flow diagrams
+  - research-agent: Domain research and analysis
+  - paid-agent: Complete agent creation pipeline
 ---
 
 # Autonomous Lucid Agent Factory

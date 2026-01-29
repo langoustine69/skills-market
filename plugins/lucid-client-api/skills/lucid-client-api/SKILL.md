@@ -8,6 +8,7 @@ description: |
   Activate when: user wants to interact with the Lucid Client API, manage agents,
   invoke agent entrypoints, or work with the multi-agent runtime system.
 
+allowed-tools: [Read, Bash, WebFetch]
 see-also:
   - https://github.com/daydreamsai/lucid-client/blob/master/AGENTS.md: Full documentation of the lucid-client architecture
   - https://github.com/daydreamsai/lucid-client/blob/master/CLAUDE.md: Development guide for lucid-client

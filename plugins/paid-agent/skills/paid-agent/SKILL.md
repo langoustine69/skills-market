@@ -2,6 +2,10 @@
 name: paid-agent
 description: End-to-end Lucid Agent creation, testing, and deployment pipeline
 allowed-tools: [Skill, Bash, Read, Write, AskUserQuestion]
+see-also:
+  - ralph-wiggum:ralph-loop: Iterative development loop
+  - feature-dev:code-reviewer: Code quality and security review
+  - commit: Git operations
 ---
 
 # Paid Agent Pipeline
